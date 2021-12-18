@@ -20,7 +20,7 @@ export default function App() {
 
   return (
     <View style={styles.container}>
-      {/* Added this scroll view to enable scrolling when list gets longer than the page */}
+     
       <ScrollView
         contentContainerStyle={{
           flexGrow: 1
